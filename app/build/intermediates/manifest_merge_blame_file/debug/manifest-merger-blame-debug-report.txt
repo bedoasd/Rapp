@@ -1,0 +1,135 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.foodrecipeapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+8-->C:\TestsProjects\FoodRecipe_App\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\TestsProjects\FoodRecipe_App\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\TestsProjects\FoodRecipe_App\app\src\main\AndroidManifest.xml:6:5-67
+11-->C:\TestsProjects\FoodRecipe_App\app\src\main\AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->C:\TestsProjects\FoodRecipe_App\app\src\main\AndroidManifest.xml:7:5-81
+12-->C:\TestsProjects\FoodRecipe_App\app\src\main\AndroidManifest.xml:7:22-78
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->C:\TestsProjects\FoodRecipe_App\app\src\main\AndroidManifest.xml:8:5-80
+13-->C:\TestsProjects\FoodRecipe_App\app\src\main\AndroidManifest.xml:8:22-77
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->C:\TestsProjects\FoodRecipe_App\app\src\main\AndroidManifest.xml:9:5-79
+14-->C:\TestsProjects\FoodRecipe_App\app\src\main\AndroidManifest.xml:9:22-76
+15
+16    <application
+16-->C:\TestsProjects\FoodRecipe_App\app\src\main\AndroidManifest.xml:11:5-49:19
+17        android:allowBackup="true"
+17-->C:\TestsProjects\FoodRecipe_App\app\src\main\AndroidManifest.xml:12:9-35
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.8.0] C:\Users\Bidooooooooooooo\.gradle\caches\transforms-3\80362f5187e09bdfe5725597b2889e76\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+19        android:dataExtractionRules="@xml/data_extraction_rules"
+19-->C:\TestsProjects\FoodRecipe_App\app\src\main\AndroidManifest.xml:13:9-65
+20        android:debuggable="true"
+21        android:extractNativeLibs="false"
+22        android:fullBackupContent="@xml/backup_rules"
+22-->C:\TestsProjects\FoodRecipe_App\app\src\main\AndroidManifest.xml:14:9-54
+23        android:icon="@mipmap/ic_launcher"
+23-->C:\TestsProjects\FoodRecipe_App\app\src\main\AndroidManifest.xml:15:9-43
+24        android:label="@string/app_name"
+24-->C:\TestsProjects\FoodRecipe_App\app\src\main\AndroidManifest.xml:16:9-41
+25        android:requestLegacyExternalStorage="true"
+25-->C:\TestsProjects\FoodRecipe_App\app\src\main\AndroidManifest.xml:17:9-52
+26        android:roundIcon="@mipmap/ic_launcher_round"
+26-->C:\TestsProjects\FoodRecipe_App\app\src\main\AndroidManifest.xml:18:9-54
+27        android:supportsRtl="true"
+27-->C:\TestsProjects\FoodRecipe_App\app\src\main\AndroidManifest.xml:19:9-35
+28        android:testOnly="true"
+29        android:theme="@style/Theme.FoodRecipeApp" >
+29-->C:\TestsProjects\FoodRecipe_App\app\src\main\AndroidManifest.xml:20:9-51
+30        <activity
+30-->C:\TestsProjects\FoodRecipe_App\app\src\main\AndroidManifest.xml:22:9-27:15
+31            android:name="com.example.foodrecipeapp.DetailActivity"
+31-->C:\TestsProjects\FoodRecipe_App\app\src\main\AndroidManifest.xml:23:13-43
+32            android:exported="false"
+32-->C:\TestsProjects\FoodRecipe_App\app\src\main\AndroidManifest.xml:24:13-37
+33            android:screenOrientation="locked" />
+33-->C:\TestsProjects\FoodRecipe_App\app\src\main\AndroidManifest.xml:25:13-47
+34        <activity
+34-->C:\TestsProjects\FoodRecipe_App\app\src\main\AndroidManifest.xml:28:9-30:40
+35            android:name="com.example.foodrecipeapp.BaseActivity"
+35-->C:\TestsProjects\FoodRecipe_App\app\src\main\AndroidManifest.xml:29:13-41
+36            android:exported="false" />
+36-->C:\TestsProjects\FoodRecipe_App\app\src\main\AndroidManifest.xml:30:13-37
+37        <activity
+37-->C:\TestsProjects\FoodRecipe_App\app\src\main\AndroidManifest.xml:31:9-36:15
+38            android:name="com.example.foodrecipeapp.HomeActivity"
+38-->C:\TestsProjects\FoodRecipe_App\app\src\main\AndroidManifest.xml:32:13-41
+39            android:exported="false"
+39-->C:\TestsProjects\FoodRecipe_App\app\src\main\AndroidManifest.xml:33:13-37
+40            android:screenOrientation="locked" />
+40-->C:\TestsProjects\FoodRecipe_App\app\src\main\AndroidManifest.xml:34:13-47
+41        <activity
+41-->C:\TestsProjects\FoodRecipe_App\app\src\main\AndroidManifest.xml:37:9-46:20
+42            android:name="com.example.foodrecipeapp.SplashActivity"
+42-->C:\TestsProjects\FoodRecipe_App\app\src\main\AndroidManifest.xml:38:13-43
+43            android:exported="true"
+43-->C:\TestsProjects\FoodRecipe_App\app\src\main\AndroidManifest.xml:39:13-36
+44            android:screenOrientation="locked" >
+44-->C:\TestsProjects\FoodRecipe_App\app\src\main\AndroidManifest.xml:40:13-47
+45            <intent-filter>
+45-->C:\TestsProjects\FoodRecipe_App\app\src\main\AndroidManifest.xml:41:13-45:29
+46                <action android:name="android.intent.action.MAIN" />
+46-->C:\TestsProjects\FoodRecipe_App\app\src\main\AndroidManifest.xml:42:17-69
+46-->C:\TestsProjects\FoodRecipe_App\app\src\main\AndroidManifest.xml:42:25-66
+47
+48                <category android:name="android.intent.category.LAUNCHER" />
+48-->C:\TestsProjects\FoodRecipe_App\app\src\main\AndroidManifest.xml:44:17-77
+48-->C:\TestsProjects\FoodRecipe_App\app\src\main\AndroidManifest.xml:44:27-74
+49            </intent-filter>
+50        </activity>
+51        <activity
+51-->[pub.devrel:easypermissions:3.0.0] C:\Users\Bidooooooooooooo\.gradle\caches\transforms-3\2d9f87353f47b8ed77746dfd6dbd11e4\transformed\easypermissions-3.0.0\AndroidManifest.xml:12:9-16:66
+52            android:name="pub.devrel.easypermissions.AppSettingsDialogHolderActivity"
+52-->[pub.devrel:easypermissions:3.0.0] C:\Users\Bidooooooooooooo\.gradle\caches\transforms-3\2d9f87353f47b8ed77746dfd6dbd11e4\transformed\easypermissions-3.0.0\AndroidManifest.xml:13:13-86
+53            android:exported="false"
+53-->[pub.devrel:easypermissions:3.0.0] C:\Users\Bidooooooooooooo\.gradle\caches\transforms-3\2d9f87353f47b8ed77746dfd6dbd11e4\transformed\easypermissions-3.0.0\AndroidManifest.xml:14:13-37
+54            android:label=""
+54-->[pub.devrel:easypermissions:3.0.0] C:\Users\Bidooooooooooooo\.gradle\caches\transforms-3\2d9f87353f47b8ed77746dfd6dbd11e4\transformed\easypermissions-3.0.0\AndroidManifest.xml:15:13-29
+55            android:theme="@style/EasyPermissions.Transparent" />
+55-->[pub.devrel:easypermissions:3.0.0] C:\Users\Bidooooooooooooo\.gradle\caches\transforms-3\2d9f87353f47b8ed77746dfd6dbd11e4\transformed\easypermissions-3.0.0\AndroidManifest.xml:16:13-63
+56
+57        <service
+57-->[androidx.room:room-runtime:2.4.0] C:\Users\Bidooooooooooooo\.gradle\caches\transforms-3\dad5a5567773c4e916033035203c17e0\transformed\room-runtime-2.4.0\AndroidManifest.xml:25:9-28:40
+58            android:name="androidx.room.MultiInstanceInvalidationService"
+58-->[androidx.room:room-runtime:2.4.0] C:\Users\Bidooooooooooooo\.gradle\caches\transforms-3\dad5a5567773c4e916033035203c17e0\transformed\room-runtime-2.4.0\AndroidManifest.xml:26:13-74
+59            android:directBootAware="true"
+59-->[androidx.room:room-runtime:2.4.0] C:\Users\Bidooooooooooooo\.gradle\caches\transforms-3\dad5a5567773c4e916033035203c17e0\transformed\room-runtime-2.4.0\AndroidManifest.xml:27:13-43
+60            android:exported="false" />
+60-->[androidx.room:room-runtime:2.4.0] C:\Users\Bidooooooooooooo\.gradle\caches\transforms-3\dad5a5567773c4e916033035203c17e0\transformed\room-runtime-2.4.0\AndroidManifest.xml:28:13-37
+61
+62        <provider
+62-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Bidooooooooooooo\.gradle\caches\transforms-3\c8e804333ffe93063868b45c456a043a\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+63            android:name="androidx.startup.InitializationProvider"
+63-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Bidooooooooooooo\.gradle\caches\transforms-3\c8e804333ffe93063868b45c456a043a\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+64            android:authorities="com.example.foodrecipeapp.androidx-startup"
+64-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Bidooooooooooooo\.gradle\caches\transforms-3\c8e804333ffe93063868b45c456a043a\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+65            android:exported="false" >
+65-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Bidooooooooooooo\.gradle\caches\transforms-3\c8e804333ffe93063868b45c456a043a\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+66            <meta-data
+66-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Bidooooooooooooo\.gradle\caches\transforms-3\c8e804333ffe93063868b45c456a043a\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+67                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+67-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Bidooooooooooooo\.gradle\caches\transforms-3\c8e804333ffe93063868b45c456a043a\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+68                android:value="androidx.startup" />
+68-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Bidooooooooooooo\.gradle\caches\transforms-3\c8e804333ffe93063868b45c456a043a\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+69            <meta-data
+69-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Bidooooooooooooo\.gradle\caches\transforms-3\505cc57c916fc00f93aa2f2a89cff123\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+70                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+70-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Bidooooooooooooo\.gradle\caches\transforms-3\505cc57c916fc00f93aa2f2a89cff123\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+71                android:value="androidx.startup" />
+71-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Bidooooooooooooo\.gradle\caches\transforms-3\505cc57c916fc00f93aa2f2a89cff123\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+72        </provider>
+73    </application>
+74
+75</manifest>

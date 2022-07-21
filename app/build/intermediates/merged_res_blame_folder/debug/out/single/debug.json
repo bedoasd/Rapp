@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-merged_res-5:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-main-7:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-merged_res-5:\\drawable_btn_bg.xml.flat",
+        "source": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-main-7:\\drawable\\btn_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-merged_res-5:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-main-7:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-merged_res-5:\\drawable_ic_fav_unfill.xml.flat",
+        "source": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-main-7:\\drawable\\ic_fav_unfill.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-merged_res-5:\\drawable_search_bg.xml.flat",
+        "source": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-main-7:\\drawable\\search_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-merged_res-5:\\drawable_btn_bg2.xml.flat",
+        "source": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-main-7:\\drawable\\btn_bg2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-merged_res-5:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-main-7:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-merged_res-5:\\drawable-v24_bg_splash.png.flat",
+        "source": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-main-7:\\drawable-v24\\bg_splash.png"
+    },
+    {
+        "merged": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-merged_res-5:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-main-7:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-merged_res-5:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-main-7:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-merged_res-5:\\layout_item_rv_main_category.xml.flat",
+        "source": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-main-7:\\layout\\item_rv_main_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-merged_res-5:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-main-7:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-merged_res-5:\\drawable_cat_img.png.flat",
+        "source": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-main-7:\\drawable\\cat_img.png"
+    },
+    {
+        "merged": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-merged_res-5:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-main-7:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.foodrecipeapp-merged_res-5:/layout_activity_details.xml.flat",
+        "source": "com.example.foodrecipeapp-main-7:/layout/activity_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-merged_res-5:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-main-7:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-merged_res-5:\\layout_item_rv_sub_category.xml.flat",
+        "source": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-main-7:\\layout\\item_rv_sub_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-merged_res-5:\\font_gilroy_light.xml.flat",
+        "source": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-main-7:\\font\\gilroy_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-merged_res-5:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-main-7:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-merged_res-5:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-main-7:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-merged_res-5:\\layout_activity_details.xml.flat",
+        "source": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-main-7:\\layout\\activity_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-merged_res-5:\\drawable_ic_baseline_access_time_24.xml.flat",
+        "source": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-main-7:\\drawable\\ic_baseline_access_time_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-merged_res-5:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-main-7:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-merged_res-5:\\drawable_ic_back.xml.flat",
+        "source": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-main-7:\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-merged_res-5:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-main-7:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-merged_res-5:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-main-7:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-merged_res-5:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-main-7:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-merged_res-5:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-main-7:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-merged_res-5:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-main-7:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-merged_res-5:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-main-7:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-merged_res-5:\\drawable_btn_bg3.xml.flat",
+        "source": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-main-7:\\drawable\\btn_bg3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-merged_res-5:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-main-7:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-merged_res-5:\\font_gilroy_bold.otf.flat",
+        "source": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-main-7:\\font\\gilroy_bold.otf"
+    }
+]

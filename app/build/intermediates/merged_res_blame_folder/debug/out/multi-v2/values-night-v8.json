@@ -1,0 +1,112 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Bidooooooooooooo\\.gradle\\daemon\\7.3.3\\com.example.foodrecipeapp-mergeDebugResources-3:\\values-night-v8\\values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Bidooooooooooooo\\.gradle\\caches\\transforms-3\\98694d70b4475201e61e2ed9025648f8\\transformed\\material-1.6.1\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,46,47,48,49,50,51,52,53",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1085,1160,1271,1360,1461,1568,1675,1774,1877,1965,2089,2191,2293,2409,2511,2625,2753,2869,2991,3127,3247,3381,3501,3613,3828,3945,4069,4199,4321,4459,4593,4709",
+                        "endColumns": "74,110,88,100,106,106,98,102,87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,116,123,129,121,137,133,115,119",
+                        "endOffsets": "1155,1266,1355,1456,1563,1670,1769,1872,1960,2084,2186,2288,2404,2506,2620,2748,2864,2986,3122,3242,3376,3496,3608,3734,3940,4064,4194,4316,4454,4588,4704,4824"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Bidooooooooooooo\\.gradle\\caches\\transforms-3\\6ded9ee479c43309ef7f0c1af9eb3f67\\transformed\\appcompat-1.4.2\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,45",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593,3739",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "120,204,288,384,486,588,682,3823"
+                    }
+                },
+                {
+                    "source": "C:\\TestsProjects\\FoodRecipe_App\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endLines": "13",
+                        "endColumns": "12",
+                        "endOffsets": "614"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "687",
+                        "endLines": "20",
+                        "endColumns": "12",
+                        "endOffsets": "1080"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.example.foodrecipeapp-mergeDebugResources-3:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Bidooooooooooooo\\.gradle\\caches\\transforms-3\\98694d70b4475201e61e2ed9025648f8\\transformed\\material-1.6.1\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,47,48,49,50,51,52,53,54",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1215,1290,1401,1490,1591,1698,1805,1904,2007,2095,2219,2321,2423,2539,2641,2755,2883,2999,3121,3257,3377,3511,3631,3743,3958,4075,4199,4329,4451,4589,4723,4839",
+                        "endColumns": "74,110,88,100,106,106,98,102,87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,116,123,129,121,137,133,115,119",
+                        "endOffsets": "1285,1396,1485,1586,1693,1800,1899,2002,2090,2214,2316,2418,2534,2636,2750,2878,2994,3116,3252,3372,3506,3626,3738,3864,4070,4194,4324,4446,4584,4718,4834,4954"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Bidooooooooooooo\\.gradle\\caches\\transforms-3\\6ded9ee479c43309ef7f0c1af9eb3f67\\transformed\\appcompat-1.4.2\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,46",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "100,170,254,338,434,536,638,3869",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "165,249,333,429,531,633,727,3953"
+                    }
+                },
+                {
+                    "source": "C:\\TestsProjects\\FoodRecipe_App\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "701"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "732",
+                        "endLines": "21",
+                        "endColumns": "12",
+                        "endOffsets": "1210"
+                    }
+                }
+            ]
+        }
+    ]
+}
